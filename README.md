@@ -1,12 +1,11 @@
 ### Hi there, I'm Suhas 👋
-You can visit https://bootvar.com/suhasadhav/ for technical profile.
+You can check for [profile](https://bootvar.com/suhasadhav/).
 
 - 👔 Working full-time as DevOps Specialist
 - ☁️ Most of the time in Cloud (AWS, Azure, Google)
 - 🌱 Learning Web3 and Blockchain (Ethereum, Polkadot)
 - 🏠 From Pune, India
 
-Be sure to check other repos by me!
 <!--
 **suhasadhav/suhasadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
