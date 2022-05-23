@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I auto-start my dev environment on Windows 10](https://bootvar.com/automate-dev-env-startup-on-windows10/)
 - [Architecting Ethereum Database for your DApp](https://bootvar.com/architecture-of-database-for-dapp/)
 - [Learning Web3 and Blockchain development](https://bootvar.com/starting-with-web3-development/)
 - [How I converted my bash scripts into Python?](https://bootvar.com/how-to-convert-shell-script-to-python/)
 - [Jenkins minimal installation on Kubernetes](https://bootvar.com/jenkins-installation-on-kubernetes/)
-- [What is a Crypto Wallet?](https://bootvar.com/what-is-crypto-wallet/)
 <!-- BLOG-POST-LIST:END -->
