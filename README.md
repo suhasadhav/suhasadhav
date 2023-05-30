@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering K9s: Unleashing the Power of Command-Line Kubernetes Management](https://bootvar.com/k9s-commands-and-usage/)
 - [Choosing the Right Monitoring Tools for Your Hybrid Infrastructure: A Comprehensive Guide](https://bootvar.com/monitoring-tools-for-hybrid-infrastructure/)
 - [Optimize Your Azure Costs with Python Automation: Start/Stop Effortlessly](https://bootvar.com/optimize-your-azure-costs-with-python-automation/)
 - [Securing Your PostgreSQL Database with SSL: A Step-by-Step Guide](https://bootvar.com/securing-your-postgresql-database-with-ssl/)
 - [How I auto-start my dev environment on Windows 10](https://bootvar.com/automate-dev-env-startup-on-windows10/)
-- [Architecting Ethereum Database for your DApp](https://bootvar.com/architecture-of-database-for-dapp/)
 <!-- BLOG-POST-LIST:END -->
