@@ -1,10 +1,10 @@
 ### Hi there, I'm Suhas 👋
 You can check for [profile](https://bootvar.com/suhasadhav/).
 
-- 👔 Working full-time as DevOps Specialist
+- 👔 Working full-time as DevOps
+- 🔭 I’m currently working on Python, Docker, Kubernetes, Jenkins, AWS and Web3
 - ☁️ Most of the time in Cloud (AWS, Azure, Google)
 - 🌱 Learning Web3 and Blockchain (Ethereum, Polkadot)
-- 💬 Ask me anything related to Python, Docker, Kubernetes, Jenkins, AWS and Web3
 - 👨‍💻 Read blogs and about me on [bootvar](https://bootvar.com)
 - 📲 Reach me [@0xsuhas](https://twitter.com/0xsuhas), [LinkedIn](https://www.linkedin.com/in/suhasadhav)
 - 🏠 From Pune, India
