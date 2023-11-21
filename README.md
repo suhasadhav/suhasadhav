@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [9 Essential Helm Commands for DevOps Engineers](https://bootvar.com/helm-commands-for-devops/)
 - [Effortless DevOps: Automate Tasks with Python Scripts](https://bootvar.com/python-for-devops/)
-- [Ensuring High Availability with AWS Load Balancer in EKS](https://bootvar.com/eks-app-high-availability-with-elb/)
+- [100% uptime with AWS Load Balancer and EKS](https://bootvar.com/eks-app-high-availability-with-elb/)
 - [Achieving Zero Downtime: Kubernetes Production Readiness for Highly Available Applications](https://bootvar.com/kubernetes-production-readiness/)
 - [Mastering K9s: Unleashing the Power of Command-Line Kubernetes Management](https://bootvar.com/k9s-commands-and-usage/)
 <!-- BLOG-POST-LIST:END -->
