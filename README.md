@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Efficient Python Project Dependencies: Methods](https://bootvar.com/python-dependencies/)
 - [9 Essential Helm Commands for DevOps Engineers](https://bootvar.com/helm-commands-for-devops/)
 - [Effortless DevOps: Automate Tasks with Python Scripts](https://bootvar.com/python-for-devops/)
 - [100% uptime with AWS Load Balancer and EKS](https://bootvar.com/eks-app-high-availability-with-elb/)
 - [Achieving Zero Downtime: Kubernetes Production Readiness for Highly Available Applications](https://bootvar.com/kubernetes-production-readiness/)
-- [Mastering K9s: Unleashing the Power of Command-Line Kubernetes Management](https://bootvar.com/k9s-commands-and-usage/)
 <!-- BLOG-POST-LIST:END -->
