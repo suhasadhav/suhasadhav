@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Powering DevOps: A Deep Dive into Monitoring Tools](https://bootvar.com/intro-to-prometheus-grafana-alertmanager/)
 - [Introduction to PostgreSQL Logical Replication: A Beginner&#39;s Guide](https://bootvar.com/postgresql-logical-replication-beginners-guide/)
 - [Efficient Python Project Dependencies: Methods](https://bootvar.com/python-dependencies/)
 - [E-Book: Patroni Administration &amp; Commands](https://bootvar.com/patroni-ebook/)
 - [9 Essential Helm Commands for DevOps Engineers](https://bootvar.com/helm-commands-for-devops/)
-- [Effortless DevOps: Automate Tasks with Python Scripts](https://bootvar.com/python-for-devops/)
 <!-- BLOG-POST-LIST:END -->
