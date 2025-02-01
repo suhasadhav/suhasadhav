@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 - [Mastering Kubernetes RBAC: The Ultimate Guide to Role-Based Access Control](https://bootvar.com/k8s-rbac-explained/)
 - [Choosing the Best Kube-Proxy Mode: iptables vs IPVS](https://bootvar.com/kube-proxy-iptables-vs-ipvs/)
 - [Comprehensive Guide to Kube Prometheus Stack with Helm](https://bootvar.com/kube-prometheus-stack-explained/)
-- [DevOps Best Practices for 2025: A Complete Guide](https://bootvar.com/devops-best-practices-for-2025/)
+- [DevOps Best Practices and Automations for 2025: A Complete Guide](https://bootvar.com/devops-best-practices-for-2025/)
 - [Powering DevOps: A Deep Dive into Monitoring Tools](https://bootvar.com/intro-to-prometheus-grafana-alertmanager/)
 <!-- BLOG-POST-LIST:END -->
