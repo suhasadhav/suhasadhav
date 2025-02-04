@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Running Jenkins on Kubernetes: A Complete Guide](https://bootvar.com/jenkins-on-kubernetes/)
 - [Patroni Troubleshooting: Fixing Common Cluster Issues](https://bootvar.com/patroni-troubleshooting/)
 - [Mastering Kubernetes RBAC: The Ultimate Guide to Role-Based Access Control](https://bootvar.com/k8s-rbac-explained/)
 - [Choosing the Best Kube-Proxy Mode: iptables vs IPVS](https://bootvar.com/kube-proxy-iptables-vs-ipvs/)
 - [Comprehensive Guide to Kube Prometheus Stack with Helm](https://bootvar.com/kube-prometheus-stack-explained/)
-- [DevOps Best Practices and Automations for 2025: A Complete Guide](https://bootvar.com/devops-best-practices-for-2025/)
 <!-- BLOG-POST-LIST:END -->
