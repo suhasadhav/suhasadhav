@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing Apache Airflow on Kubernetes - Comprehensive Guide](https://bootvar.com/airflow-on-kubernetes/)
 - [How to List All Available Charts in a Helm Repository](https://bootvar.com/search-helm-charts-in-repo/)
 - [Step-by-Step Guide to setup pgBackRest](https://bootvar.com/guide-to-setup-pgbackrest/)
 - [The Ultimate Guide to Kubernetes Init Containers](https://bootvar.com/kubernetes-init-containers/)
 - [Running Jenkins on Kubernetes: A Complete Guide](https://bootvar.com/jenkins-on-kubernetes/)
-- [Patroni Troubleshooting: Fixing Common Cluster Issues](https://bootvar.com/patroni-troubleshooting/)
 <!-- BLOG-POST-LIST:END -->
